@@ -1,5 +1,5 @@
-# Shopify E-Commerce Sales Analytics
-### SQL + Business Intelligence Portfolio Project
+# E-Commerce Sales Analytics
+### SQL + Business Intelligence
 
 An interactive, portfolio-ready data analytics web application demonstrating practical competency across **SQL, automated data cleaning, star-schema relational modeling, exploratory data analysis (EDA), business intelligence, and Power BI-style dashboard development** using an e-commerce transaction dataset.
 
@@ -24,7 +24,7 @@ Every metric, visualization, and strategic insight is **dynamically calculated**
 * **Application Layer**: React 19 + TypeScript / Streamlit
 * **Data Processing**: Pandas, In-browser SQL (WebAssembly SQLite & Python SQLite3/DuckDB)
 * **Visualizations**: Plotly / Recharts interactive charting engine
-* **Database & SQL**: Relational normalization into Star Schema (`fact_sales`, `dim_customer`, `dim_product`, `dim_marketing`, `dim_date`)
+* **Database & SQL**: Relational normalization into Star Schema
 * **Styling**: Power BI executive dashboard layout with Tailwind CSS
 * **Calculations**: Dual SQL + Power BI DAX formula documentation
 
@@ -33,7 +33,7 @@ Every metric, visualization, and strategic insight is **dynamically calculated**
 ## 3. Repository Structure
 
 ```text
-shopify-sales-analytics/
+sales-analytics/
 │
 ├── app.py                     # Streamlit web application entry point
 ├── requirements.txt           # Python dependency specifications
@@ -54,8 +54,6 @@ shopify-sales-analytics/
 │   ├── database.py            # SQLite schema builder & SQL executor
 │   ├── analytics.py           # KPIs, DAX definitions & automated insights
 │   └── visualizations.py      # Plotly interactive chart generators
-│
-└── outputs/                   # Export directory for cleaned data & queries
 ```
 
 ---
