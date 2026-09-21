@@ -1,7 +1,7 @@
 # E-Commerce Sales Analytics
 ### SQL + Business Intelligence Portfolio Project
 
-An interactive, portfolio-ready data analytics web application demonstrating practical competency across **SQL, automated data cleaning, star-schema relational modeling, exploratory data analysis (EDA), business intelligence, and Power BI-style dashboard development** using an e-commerce transaction dataset.
+An interactive, data analytics web application for **SQL, automated data cleaning, star-schema relational modeling, exploratory data analysis (EDA), business intelligence, and Power BI-style dashboard development** using an e-commerce transaction dataset.
 
 ---
 
