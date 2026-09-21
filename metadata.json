@@ -1,8 +1,6 @@
 {
   "name": "E-Commerce Analytics",
   "description": "Interactive SQL, business intelligence, data modeling, and Power BI-style dashboard for sales analysis.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  "requestFramePermissions": []
   ]
 }
