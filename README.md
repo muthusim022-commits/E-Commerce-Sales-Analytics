@@ -122,7 +122,7 @@ The application models flat Shopify transaction records into an analytical Star 
 ### Option 1: Python Streamlit Application
 ```bash
 git clone <repo-url>
-cd shopify-sales-analytics
+cd e-commerce-sales-analytics
 pip install -r requirements.txt
 streamlit run app.py
 ```
